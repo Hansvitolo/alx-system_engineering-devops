@@ -1,2 +1,2 @@
 #!/bin/bash
-alias push="git push"
+shopt -s expand_aliases
